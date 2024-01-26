@@ -1,0 +1,44 @@
+.box{
+    width: 350px;
+height: 160px;
+}
+h1{
+    color: #777;
+text-align: center;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: capitalize;
+}
+.box2{
+    width: 1280px;
+    height: 26px;   
+}
+.h{
+    color: #001AFF;
+text-align: center;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: capitalize;
+}
+.box3{
+    width: 350px;
+height: 160px;
+margin-left: 72px;
+
+}
+.h2{
+   color: #F00;
+text-align: justify;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: capitalize;
+}
